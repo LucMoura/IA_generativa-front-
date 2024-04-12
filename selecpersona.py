@@ -43,7 +43,7 @@ def selecionar_persona(mensagem_usuario):
                 "content": mensagem_usuario
             }
         ],
-        temperature = 1,
+        temperature = 3,
         
         
     )

@@ -1,0 +1,26 @@
+{
+    "Dados":[
+        {
+            "Nome" : "Alice",
+            "Agencia": "2167-901",
+            "Dividas": "Sim",
+            "Valor_dividas":"R$789,90",
+            "Investimentos": "Não"
+        },
+        {
+            "Nome": "Marcus",
+            "Agencia": "9321-831",
+            "Dividas": "Não",
+            "Investimentos":"Sim",
+            "Tipos_investimentos": "Tesouro direto"
+        },
+        {
+            "Nome":"João",
+            "Agencia":"7219-721",
+            "Dividas":"Sim",
+            "Valor_dividas":"R$789,90",
+            "Investimentos": "Sim",
+            "Tipos_investimentos": "Ações,Tesouro direto e fundos imobiliarios"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+## Funções disponíveis
+
+1- Consulta de Saldo e Extrato Bancário: Os clientes devem poder verificar seus saldos de conta corrente, poupança, investimentos e cartões de crédito, bem como acessar seus extratos bancários recentes.
+
+2- Transferências e Pagamentos: O chatbot deve permitir que os clientes realizem transferências entre contas, pagamentos de contas, pagamentos de boletos e agendamento de pagamentos futuros.
+
+3- Solicitação de Cartões e Produtos Financeiros: Os clientes devem poder solicitar novos cartões de crédito, débito ou pré-pagos, bem como outros produtos financeiros oferecidos pelo banco, como empréstimos, financiamentos e seguros.
+
+4- Assistência e Suporte ao Cliente: O chatbot deve ser capaz de responder a perguntas frequentes, fornecer informações sobre produtos e serviços, e oferecer suporte técnico para questões relacionadas ao uso do aplicativo bancário, transações online e segurança da conta.
+
+5- Investimentos e Educação Financeira: O chatbot pode oferecer orientação sobre investimentos, fornecer cotações de ações e informações sobre fundos de investimento, bem como dicas e recursos educacionais sobre gestão financeira e planejamento financeiro pessoal.
+
+6- Atualizações de Segurança e Alertas: O chatbot deve informar os clientes sobre medidas de segurança, como atualizações de senha, atividade suspeita na conta e dicas de segurança cibernética para proteger suas informações pessoais e financeiras.
+
+7- Localização de Agências e Caixas Eletrônicos: Os clientes devem poder usar o chatbot para encontrar agências bancárias próximas, caixas eletrônicos e postos de atendimento, bem como obter informações sobre horários de funcionamento e serviços disponíveis.
+
+8- Feedback e Sugestões: O chatbot pode oferecer aos clientes a oportunidade de fornecer feedback sobre sua experiência com o banco, fazer sugestões de melhorias e relatar problemas ou preocupações.
+
+9- Verificar status da conta: O chatbot pode verificar, por meio, do arquivo json, fazendo uma verificação, perguntando a agência do usuário se ele há ou não dividas ou investimentos  e se tiver, qual é o valor da divida e qual são os investimentos
